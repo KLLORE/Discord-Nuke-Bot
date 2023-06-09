@@ -17,7 +17,5 @@ powerful nuke bot, mass ban, mass ping, mass channel, mass delete
 
 | Mass Delete Channels | Mass Create Channels | Mass Roles | Mass Ban
 
-| ![mass ban](https://media.discordapp.net/attachments/1048652038759796817/1116734070852960349/IMG_2859.png?width=224&height=377) | ![mass channel & mass ping](https://media.discordapp.net/attachments/1048652038759796817/1116734324948074546/IMG_2860.png?width=165&height=377)
-
-### Help:
-![help](https://discord.gg/3ZXpBB59m9)
+![mass ban](https://media.discordapp.net/attachments/1048652038759796817/1116734070852960349/IMG_2859.png?width=224&height=377)
+![mass channel & mass ping](https://media.discordapp.net/attachments/1048652038759796817/1116734324948074546/IMG_2860.png?width=165&height=377)
