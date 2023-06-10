@@ -1,8 +1,7 @@
 # Discord-Nuke-Bot
 powerful nuke bot, mass ban, mass ping, mass channel, mass delete
 
-FOR THE BOT: https://discord.gg/devcomm
-FOR THE BOT: https://discord.gg/3ZXpBB59m9
+FOR THE BOT: https://discord.gg/devcomm | https://discord.gg/3ZXpBB59m9
 
 ## Contact Me
 
